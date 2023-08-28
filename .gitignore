@@ -1,12 +1,10 @@
 ParImpar.csproj
 ParImpar.sln
-
 ParImpar.suo
-
 Properties/
-
 bin/
-
 obj/
+App.config
+.vs/
 
 
